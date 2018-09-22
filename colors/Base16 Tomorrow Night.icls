@@ -34,15 +34,15 @@
     <option name="FILESTATUS_changelistConflict" value="cc6666" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
     <option name="GUTTER_BACKGROUND" value="1d1f21" />
-    <option name="INDENT_GUIDE" value="37474f" />
+    <option name="INDENT_GUIDE" value="" />
     <option name="INFORMATION_HINT" value="1d1f21" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="METHOD_SEPARATORS_COLOR" value="969896" />
     <option name="MODIFIED_LINES_COLOR" value="f0c674" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="QUESTION_HINT" value="1d1f21" />
-    <option name="RIGHT_MARGIN_COLOR" value="969896" />
-    <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="373b41" />
     <option name="SELECTION_FOREGROUND" value="c5c8c6" />
@@ -53,6 +53,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="cc6666" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="969896" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="969896" />
   </colors>
@@ -1155,7 +1156,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="f0c674" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
